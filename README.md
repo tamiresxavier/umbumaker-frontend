@@ -1,6 +1,6 @@
-# Umbu Maker 🖨️ - Sistema de Gerenciamento de Agendamentos de Impressões 3D 📅
+# Umbumaker 🖨️ - Sistema de Gerenciamento de Agendamentos de Impressões 3D 📅
 
-Bem-vindo ao *Umbu Maker*! Este sistema foi desenvolvido para simplificar o agendamento de impressões 3D e tornar a utilização das impressoras 3D do laboratório do IFPB - Campus Monteiro mais eficiente e acessível. 🚀
+Bem-vindo ao *Umbumaker*! Este sistema foi desenvolvido para simplificar o agendamento de impressões 3D e tornar a utilização das impressoras 3D do laboratório do IFPB - Campus Monteiro mais eficiente e acessível. 🚀
 
 ## Visão Geral 📋
 
@@ -13,7 +13,7 @@ O *Umbu Maker* é uma plataforma de gerenciamento de agendamentos de impressões
 
 ## Tecnologias Utilizadas 💻
 
-O *Umbu Maker* utiliza as mais modernas tecnologias para garantir sua eficiência e confiabilidade:
+O *Umbumaker* utiliza as mais modernas tecnologias para garantir sua eficiência e confiabilidade:
 
 - *Linguagem de Programação*: Java
 - *Framework Backend*: Spring Boot
@@ -24,7 +24,7 @@ O *Umbu Maker* utiliza as mais modernas tecnologias para garantir sua eficiênci
 
 ## Configuração 🛠️
 
-Para executar o *Umbu Maker* em seu ambiente local, siga estas etapas:
+Para executar o *Umbumaker* em seu ambiente local, siga estas etapas:
 
 1. Clone o repositório: `git clone https://github.com/seu-usuario/umbu-maker.git`
 2. Configure o banco de dados no arquivo `application.properties`.
